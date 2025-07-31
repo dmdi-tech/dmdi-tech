@@ -19,5 +19,9 @@ class Diana:
         backend_skills (list): ["Python", "Node.js", "SQLite"]
     """
 ```
+
+<div align="center">
+  <p>Check out my <a href="https://dmdi-tech.github.io">portfolio</a> website!</p>
+</div>
 </div>
 </div>
