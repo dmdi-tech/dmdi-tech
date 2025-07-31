@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+ <br>
+ 
+## ABOUT ME
 
-<!--
-**dmdi-tech/dmdi-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Diana:
+    """
+    Attributes:
+        name(str): Diana Moreno.
+        city (str): Raleigh, North Carolina.
+        current_status(str): Learning, building and open to opportunities.
+        interests (str): Web/App Dev, OpenAI, GenerativeAI.
+        hobbies (str): Discovering new music and food.
+        education (str): BA in Computer Science and Professional Spanish from Meredith College.
+        languages (list): ["HTML/CSS", "JavaScript", "TypeScript", "Java", "Python"]
+        frontend_skills (list): ["HTML/CSS", "React.js", "Next.js", "TailwindCSS"]
+        backend_skills (list): ["Python", "Node.js", "SQLite"]
+    """
+```
+</div>
+</div>
